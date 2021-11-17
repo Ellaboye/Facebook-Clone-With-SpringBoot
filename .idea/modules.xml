@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Downloads.iml" filepath="$PROJECT_DIR$/.idea/Downloads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JunitTestExample-main/JUnitClass/JUnitClass.iml" filepath="$PROJECT_DIR$/JunitTestExample-main/JUnitClass/JUnitClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSocketProgramming-main/JavaSocketProgramming.iml" filepath="$PROJECT_DIR$/JavaSocketProgramming-main/JavaSocketProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JunitTestExample-main/Week1Task/SchoolApp.iml" filepath="$PROJECT_DIR$/JunitTestExample-main/Week1Task/SchoolApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JunitTestExample-main/VoterRegistration/VoterRegistration.iml" filepath="$PROJECT_DIR$/JunitTestExample-main/VoterRegistration/VoterRegistration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JunitTestExample-main/untitled/untitled.iml" filepath="$PROJECT_DIR$/JunitTestExample-main/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JunitTestExample-main/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/JunitTestExample-main/untitled1/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JunitTestExample-main/untitled2/untitled2.iml" filepath="$PROJECT_DIR$/JunitTestExample-main/untitled2/untitled2.iml" />
+    </modules>
+  </component>
+</project>

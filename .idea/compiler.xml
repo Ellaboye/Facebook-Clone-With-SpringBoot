@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="untitled1" />
+        <module name="untitled2" />
+        <module name="untitled" />
+        <module name="JUnitClass" />
+        <module name="VoterRegistration" />
+        <module name="SchoolApp" />
+        <module name="JavaSocketProgramming" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JavaSocketProgramming" target="11" />
+      <module name="JUnitClass" target="16" />
+      <module name="SchoolApp" target="16" />
+      <module name="untitled" target="16" />
+      <module name="untitled1" target="16" />
+      <module name="untitled2" target="16" />
+      <module name="VoterRegistration" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
